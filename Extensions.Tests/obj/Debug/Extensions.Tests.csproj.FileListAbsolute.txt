@@ -1,0 +1,14 @@
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\bin\Debug\Extensions.Tests.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\bin\Debug\Extensions.Tests.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\bin\Debug\Extensions.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\bin\Debug\Extensions.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\obj\Debug\Extensions.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\obj\Debug\Extensions.Tests.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Itoki\Itoki\Extensions.Tests\obj\Debug\Extensions.Tests.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\bin\Debug\Extensions.Tests.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\bin\Debug\Extensions.Tests.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\bin\Debug\Extensions.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\bin\Debug\Extensions.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\obj\Debug\Extensions.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\obj\Debug\Extensions.Tests.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions.Tests\obj\Debug\Extensions.Tests.pdb
