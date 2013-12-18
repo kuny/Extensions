@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace System
 {
-    public static class IntExtensions
+    public static class IntExtension
     {
         public static void Times(this int i, Action<int> action)
         {

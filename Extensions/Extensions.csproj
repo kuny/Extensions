@@ -43,7 +43,7 @@
     <Compile Include="System\DecimalExtension.cs" />
     <Compile Include="System\DoubleExtension.cs" />
     <Compile Include="System\_.cs" />
-    <Compile Include="System\IntExtensions.cs" />
+    <Compile Include="System\IntExtension.cs" />
     <Compile Include="System\ObjectExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="System\StringExtension.cs" />
