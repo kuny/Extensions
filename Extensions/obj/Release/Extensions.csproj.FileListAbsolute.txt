@@ -1,0 +1,4 @@
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions\bin\Release\Extensions.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions\bin\Release\Extensions.pdb
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions\obj\Release\Extensions.dll
+C:\Users\kuny\Documents\Visual Studio 2012\Projects\Extensions\Extensions\obj\Release\Extensions.pdb
