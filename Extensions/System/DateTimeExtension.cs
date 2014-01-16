@@ -21,5 +21,15 @@ namespace System
 
             return nen + tsuki + hi;
         }
+
+        public static DateTime ToFirstDay(this DateTime d)
+        {
+            return new DateTime(d.Year, d.Month, 1);
+        }
+
+        public static DateTime ToLastDay(this DateTime d)
+        {
+            return d.ToFirstDay().AddMonths(1).AddDays(-1);
+        }
     }
 }
