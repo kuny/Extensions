@@ -71,5 +71,17 @@ namespace System
             var now = DateTime.Now;
             return new DateTime(now.Year, now.Month, now.Day);
         }
+
+        public static DateTime ThisMonth1st()
+        {
+            var today = Today();
+            return new DateTime(today.Year, today.Month, 1);
+        }
+
+        public static DateTime ThisMonthLast()
+        {
+            var today = Today();
+            return today.ToLastDay();
+        }
     }
 }
