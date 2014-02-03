@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="System\Data\DataTableExtension.cs" />
     <Compile Include="System\DateTimeExtension.cs" />
     <Compile Include="System\DecimalExtension.cs" />
     <Compile Include="System\DoubleExtension.cs" />

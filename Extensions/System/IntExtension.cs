@@ -25,5 +25,23 @@ namespace System
         {
             return Math.Pow(x.ToDouble(), y.ToDouble()).ToInt32();
         }
+
+        public static DateTime YearsLater(this int i)
+        {
+            var today = _.Today();
+            return today.AddYears(i);
+        }
+
+        public static DateTime MonthsLater(this int i)
+        {
+            var today = _.Today();
+            return today.AddMonths(i);
+        }
+
+        public static DateTime Days(this int i)
+        {
+            var today = _.Today();
+            return today.AddDays(i);
+        }
     }
 }

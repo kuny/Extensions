@@ -18,6 +18,7 @@ namespace Extensions.Tests.System
                 Assert.AreEqual(c, a);
                 c++;
             });
+
         }
 
         [TestMethod]

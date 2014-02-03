@@ -40,5 +40,10 @@ namespace System
             decimal d1 = (d * a + addValues[(int)mode]).KillDecimal();
             return d1.Divide(a);
         }
+
+        public static decimal Fix(this decimal d)
+        {
+            return d.Round(0, RoundMode.RoundDown);
+        }
     }
 }

@@ -65,5 +65,11 @@ namespace System
 
             return list;
         }
+
+        public static DateTime Today()
+        {
+            var now = DateTime.Now;
+            return new DateTime(now.Year, now.Month, now.Day);
+        }
     }
 }
