@@ -38,7 +38,7 @@ namespace System
             return today.AddMonths(i);
         }
 
-        public static DateTime Days(this int i)
+        public static DateTime DaysLater(this int i)
         {
             var today = _.Today();
             return today.AddDays(i);
